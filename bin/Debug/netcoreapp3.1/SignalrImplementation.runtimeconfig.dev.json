@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bacancy\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bacancy\\.nuget\\packages"
+    ]
+  }
+}
